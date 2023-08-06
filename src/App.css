@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #ffb6c1;
+  animation: rainbow-background 2s infinite; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +23,30 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+@keyframes rainbow-background {
+  0% {
+    background-color: red;
+  }
+  16.666% {
+    background-color: orange;
+  }
+  33.333% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: green;
+  }
+  66.666% {
+    background-color: blue;
+  }
+  83.333% {
+    background-color: indigo;
+  }
+  100% {
+    background-color: violet;
+  }
 }
 
 .App-link {
