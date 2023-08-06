@@ -65,6 +65,9 @@ const Grid = (props) => {
     cohen_head,
     cohen_head,
     cohen_head,
+    cohen_head,
+    cohen_head,
+    cohen_head,
     // Add more image URLs here
   ];
   console.log(props.partyMode);
