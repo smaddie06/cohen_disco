@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/smaddie06/cohen_disco/static/css/main.e492c5a2.css",
+    "main.js": "/smaddie06/cohen_disco/static/js/main.6d90d259.js",
+    "static/js/787.626a797b.chunk.js": "/smaddie06/cohen_disco/static/js/787.626a797b.chunk.js",
+    "static/media/discoball.png": "/smaddie06/cohen_disco/static/media/discoball.4a89de84de7d2d09c621.png",
+    "static/media/cohen_face.jpeg": "/smaddie06/cohen_disco/static/media/cohen_face.e2ebe0efb9982c982c98.jpeg",
+    "index.html": "/smaddie06/cohen_disco/index.html",
+    "main.e492c5a2.css.map": "/smaddie06/cohen_disco/static/css/main.e492c5a2.css.map",
+    "main.6d90d259.js.map": "/smaddie06/cohen_disco/static/js/main.6d90d259.js.map",
+    "787.626a797b.chunk.js.map": "/smaddie06/cohen_disco/static/js/787.626a797b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e492c5a2.css",
+    "static/js/main.6d90d259.js"
+  ]
+}
