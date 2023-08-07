@@ -33,6 +33,9 @@ function App() {
             style={{ height: "80px", width: "80px" }}
           />
         </button>
+        <h1 style={{ color: "pink" }}>
+          {party ? "partaaaaaaaaaaay time!!!" : "press the discoball to party"}
+        </h1>
         <Grid partyMode={party} />
 
         <p>
